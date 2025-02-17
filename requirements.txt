@@ -1,0 +1,8 @@
+pyyaml
+fastapi
+uvicorn
+pydantic
+peewee
+psycopg2-binary
+pyjwt
+requests

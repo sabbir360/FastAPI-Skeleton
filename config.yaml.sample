@@ -1,0 +1,15 @@
+database:
+  host: localhost
+  port: 5432
+  username: root
+  password: root
+  name: domino_dns
+
+jwt:
+  secret_key: xxxxxx0K5K9$@xxxx
+  algorithm: HS256
+
+auth:
+  app_name_1: app_secret
+  app_name_2: app_secret
+  test: test_secret

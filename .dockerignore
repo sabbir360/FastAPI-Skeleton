@@ -1,0 +1,12 @@
+.coverage
+__pycache__
+.pytest_cache
+.vscode
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv
+config.yaml.sample
+README.md
+CHANGELOG.md
